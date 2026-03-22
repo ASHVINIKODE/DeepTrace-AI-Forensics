@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python
+mtcnn
+efficientnet_pytorch
+pillow
+numpy
